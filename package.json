@@ -1,0 +1,26 @@
+{
+  "name": "cyberframe",
+  "version": "1.0.0",
+  "description": "This is for CyberFrame.",
+  "main": "index.js",
+  "scripts": {
+    "test": "protctor conf.js"
+  },
+  "keywords": [
+    "protractor"
+  ],
+  "author": "Kamol",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "This is for CyberFrame"
+  },
+  "dependencies": {
+    "chrome": "^0.1.0",
+    "protractor": "^5.4.1"
+  },
+  "devDependencies": {
+    "jasmine-spec-reporter": "^4.2.1",
+    "protractor-beautiful-reporter": "^1.2.8"
+  }
+}
